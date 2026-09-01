@@ -76,21 +76,6 @@ The methodology, model architecture, validation strategy, and explainability ana
 
 If you use the code or processed dataset in your work, please cite the corresponding manuscript and dataset.
 
-## Requirements
-
-The main implementation uses:
-
-- Python
-- PyTorch
-- PyTorch Geometric
-- NumPy
-- pandas
-- SciPy
-- scikit-learn
-- Matplotlib
-
-Exact package versions can be found in `requirements.txt`.
-
 ## Reproducibility
 
 The provided code is intended to reproduce the main computational analyses reported in the manuscript.
