@@ -50,7 +50,7 @@ The processed graph dataset associated with this study is publicly available thr
 
 **Processed fNIRS Graph Representations for Explainable Graph Neural Network Modeling of Cochlear Implant Outcomes**
 
-DOI: 10.17632/2y26j9hptt.2
+DOI: 10.17632/2y26j9hptt.1
 
 The shared dataset contains processed graph representations derived from fNIRS recordings rather than the original raw imaging data.
 
